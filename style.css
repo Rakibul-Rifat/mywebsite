@@ -127,12 +127,12 @@ margin-right: 30px;
 }
 .box2{
 
-background-image: url(https://avatars.githubusercontent.com/u/192508513?v=4);
+background-image: url(https://github.com/Rakibul-Rifat/mywebsite/blob/7be1708bd3bc0eb533268e994496b8a9838c0d9d/profile_picture.jpg);
 background-position: center;
 background-size: cover;
 border-radius: 50%;
 width: 400px;
-height: 600px;
+height: 400px;
 flex: 50%;
 flex-grow: 1;
 flex-basis: 300px;
