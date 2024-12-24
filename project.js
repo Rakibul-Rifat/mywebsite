@@ -26,7 +26,7 @@ var typed = new Typed('#typing', {
 
 });
 var typed2 = new Typed('#typed2', {
-  strings: ['Thank you!!!!!'],
+  strings: ['Thank you!!!!!','Have a nice day...'],
   typeSpeed: 0,
   backSpeed: 0,
   fadeOut: true,
